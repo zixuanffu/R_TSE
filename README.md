@@ -1,5 +1,5 @@
 # R_TSE
-A repo for tutorials of M1 R programming.
+under what circumstances can pr be merged directly?
 This line is to create conflict.
 
 blablablah
